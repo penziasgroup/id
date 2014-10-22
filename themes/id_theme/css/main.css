@@ -2,17 +2,17 @@
 Custom CSS styles that override base theme go here.
 */
 
-.region-secondary-content .hero-copy {
+.front .region-secondary-content .hero-copy {
   display:none;
 }
 
-.region-secondary-content .views-field-field-hero-image {
+.front .region-secondary-content .views-field-field-hero-image {
   width:100%;
   float:none;
   margin:0;
 }
 
-.region-secondary-content .views-field-field-hero-image img {
+.front .region-secondary-content .views-field-field-hero-image img {
   width:100%;
   display:block;
 }
