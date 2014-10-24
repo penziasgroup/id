@@ -16,3 +16,7 @@ Custom CSS styles that override base theme go here.
   width:100%;
   display:block;
 }
+
+.front .views-field-field-staff-picture {
+  display:none;
+}
